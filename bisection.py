@@ -7,7 +7,7 @@ S. Rodriguez and M. Ludkovski, ACM Trans. Model. Comput. Simul. 30, 1, Article 2
 https://doi.org/10.1145/3355607
 
 To do: entropy driven sampling from
-S. Rodriguez and M. Ludkovski, European Journal of Operational Research 286 (2020) 588–603.
+S. Rodriguez and M. Ludkovski, European Journal of Operational Research 286 (2020) 588-603.
 https://doi.org/10.1016/j.ejor.2020.03.049
 
 demo: 
